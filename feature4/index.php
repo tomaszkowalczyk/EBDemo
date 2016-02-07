@@ -10,5 +10,7 @@
 	<h2>ver 0.1</h2>
 	<h3>author: tomasz kowalczyk</h3>
 	<h4>date: 07/02/2016</h4>
+
+	<a href="foo.php">test link</a>
 </body>
 </html>
